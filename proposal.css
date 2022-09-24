@@ -245,3 +245,11 @@ display: flex;
 	width: 320px;
 	height: 240px;
 }
+
+
+@media only screen and (max-width: 600px) {
+	#sadcat {
+		margin-left: 20%;
+		margin-top: 20%;
+	}
+}
